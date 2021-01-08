@@ -1,6 +1,6 @@
 # yandex-praktikum-projects_EN
 This repository contains some educational projects completed as part of the "Data Analyst" training course from Yandex.Practicum:
-## Project 1. Optimization of marketing costs in Yandex.Afisha ([link](https://github.com/dmitryakushev/yandex-praktikum-projects/tree/main/marketing_expenses_optimisation_Ya-afisha)).  
+## Project 1. Optimization of marketing costs in Yandex.Afisha ([link](https://github.com/dmitryakushev/yandex-praktikum-projects_EN/tree/main/marketing_expenses_optimisation_Ya-afisha)).  
 Analysis of data from Yandex.Afisha in order to optimize marketing costs.  
 Cohort analysis.  
 Metrics calculation: LTV, CAC, Retention rate, DAU, WAU, MAU, ROMI.  
